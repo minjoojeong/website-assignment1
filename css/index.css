@@ -1,0 +1,14 @@
+body {
+  font-family: "Gill Sans";
+  background-color: #e8e0ca;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  background-color: darksalmon;
+  padding: 10px;
+  border-radius: 15px;
+  margin: 10px;
+}
